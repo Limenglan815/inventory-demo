@@ -1,0 +1,6 @@
+order_id,sku,quantity,customer_message,channel
+S1001,A001,1,When will this ship to the US?,Amazon
+S1002,A002,1,Do you still have this in stock?,Shopify
+S1003,A003,10,需要 10 件，可以今天发货吗？,独立站
+S1004,A001,2,可以发到德国吗？,独立站
+S1005,B999,1,请确认这个货号还能下单吗？,Amazon
